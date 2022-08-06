@@ -1,16 +1,16 @@
-### Hi there 👋
+### Aloha! 👋
 
-<!--
-**aminamatai/aminamatai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a blog/website
+- 🌱 I’m currently learning html + CSS
+- 🤔 I’m looking for help with the website and what I can improve on
+- 💬 Ask me about anything you need help with
+- 📫 How to reach me: My email: amsdca2020@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I play the piano, violin and the dombyra
+
+Have a wonderful day~
